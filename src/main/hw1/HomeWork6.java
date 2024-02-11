@@ -1,3 +1,5 @@
+package main.hw1;
+
 public class HomeWork6 {
     public static void main(String[] args) {
         System.out.println(printName1("Вадим", "Сергей", "Ангелина"));

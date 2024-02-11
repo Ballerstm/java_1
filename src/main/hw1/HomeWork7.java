@@ -1,6 +1,8 @@
+package main.hw1;
+
 public class HomeWork7 {
     public static void main(String[] args) {
-        System.out.println(year(1800));
+        System.out.println(year(2024));
     }
 
     static String year(int a) {

@@ -1,3 +1,5 @@
+package main.hw1;
+
 public class HomeWork3 {
     public static void main(String[] args) {
        // System.out.println(sum(15, 5));

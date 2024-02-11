@@ -1,3 +1,5 @@
+package main.hw1;
+
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.sql.SQLOutput;
 

@@ -1,3 +1,5 @@
+package main.hw1;
+
 public class HomeWork5 {
     public static void main(String[] args) {
         System.out.println(number1(1));
